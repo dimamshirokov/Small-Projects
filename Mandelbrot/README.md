@@ -15,8 +15,10 @@ To install SDL2, enter commands in the terminal depending on your operating syst
 ## :arrow_forward: Running the program
 
 ```bash 
-make run //Starts the program
-make clean //Clean the assembly after program execution
+make run # Starts the program
+```
+```bash
+make clean # Clean the assembly after program execution
 ```
 
 ## :camera: Images
