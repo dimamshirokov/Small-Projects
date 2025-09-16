@@ -12,6 +12,8 @@ an accuracy of 1e-6!
 
 ```bash
 make run # Launching the program
+```
+```bash
 make clean # Clears the assembly
 ```
 
