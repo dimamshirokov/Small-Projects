@@ -27,9 +27,9 @@ python3 application.py
 
 ![](https://drive.google.com/uc?id=1KbEiTJ7hXD_msXHZXem0HRbiSlG6n6yr)
 
-[![](https://drive.google.com/uc?id=1XII7gUlkTfzYWSNr9psk-H1-MYyFQFR_)](https://drive.google.com/uc?id=1R6dKPEg2qScdvzTWTy6XHhDO6ruPBOMd)
+[![](https://drive.google.com/uc?id=1p5vkILxxdXl8j8xlUWZtGZuHyAWv0G5y)](https://drive.google.com/uc?id=1R6dKPEg2qScdvzTWTy6XHhDO6ruPBOMd)
 
-[![](https://drive.google.com/uc?id=1XII7gUlkTfzYWSNr9psk-H1-MYyFQFR_)](https://drive.google.com/uc?id=1hgshNofKjeg3KyIJtsCdJiWpf6MJ_qKu)
+[![](https://drive.google.com/uc?id=1p5vkILxxdXl8j8xlUWZtGZuHyAWv0G5y)](https://drive.google.com/uc?id=1hgshNofKjeg3KyIJtsCdJiWpf6MJ_qKu)
 
 ## :octocat: Author
 
