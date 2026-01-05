@@ -14,20 +14,18 @@ To install SDL2, enter commands in the terminal depending on your operating syst
 
 ## :arrow_forward: Running the program
 
-```bash 
+```console 
 make run # Starts the program
 ```
-```bash
+```console
 make clean # Clean the assembly after program execution
 ```
 
 ## :camera: Images
 
-![](images/image.png)
+![](https://drive.google.com/uc?id=11MBvlFR8VAH7DEUumPSU8niD0DIRf47t)
 
 ## :bust_in_silhouette: Author
 
 **Dima M. Shirokov**
-- [GitHub](https://github.com/1123581321345589144233377610)
-
-
+- [GitHub](https://github.com/dimamshirokov)

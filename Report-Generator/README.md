@@ -13,7 +13,7 @@ This is a console application that accepts a CSV or JSON file as input and adds 
 
 ## :slot_machine: Run the program
 
-```bash
+```console
 python3 application.py
 ```
 
@@ -34,4 +34,4 @@ python3 application.py
 ## :octocat: Author
 
 **Dima M. Shirokov**
-- [GitHub](https://github.com/1123581321345589144233377610)
+- [GitHub](https://github.com/dimamshirokov)

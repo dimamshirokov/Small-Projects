@@ -6,14 +6,14 @@ This is a C project where you change the function to whatever you want in the ma
 the project and set the integration limits, and then get the [integral](https://en.wikipedia.org/wiki/Integral)  value of this function with 
 an accuracy of 1e-6!
 
-![](images/image1.png)
+![](https://drive.google.com/uc?id=1XQE6dxgBe3gBiD0z4Aq6AjXlBfxLxNSI)
 
 ## :runner: Run the program
 
-```bash
+```console
 make run # Launching the program
 ```
-```bash
+```console
 make clean # Clears the assembly
 ```
 
@@ -21,9 +21,9 @@ make clean # Clears the assembly
 
 An example of how the program works!
 
-![](images/image2.png)
+![](https://drive.google.com/uc?id=1DB5t7iJGpaYqXtNugvvkFbt_wNphLMxd)
 
 ## :sunglasses: Author
 
 **Dima M. Shirokov**
-- [GitHub](https://github.com/1123581321345589144233377610)
+- [GitHub](https://github.com/dimamshirokov)

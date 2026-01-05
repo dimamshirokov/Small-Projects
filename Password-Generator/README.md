@@ -7,13 +7,13 @@ are strong and safe to use.
 
 ## :bullettrain_front: Run the program on Linux/MacOS
 
-```bash
+```console
 make all # Builds the program
 ```
-```bash
+```console
 ./generator 10 # Instead of 10, you can enter any password length
 ```
-```bash
+```console
 make clean # Clears the assembly
 ```
 
@@ -21,9 +21,9 @@ make clean # Clears the assembly
 
 An example of how the program works!
 
-![](images/image.png)
+![](https://drive.google.com/uc?id=1U_gq_PobVctEunuPDLg33O-hU1DjGq2x)
 
 ## :octocat: Author
 
 **Dima M. Shirokov**
-- [GitHub](https://github.com/1123581321345589144233377610)
+- [GitHub](https://github.com/dimamshirokov)
