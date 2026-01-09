@@ -1,6 +1,6 @@
 # Pixel Art Studio
 
-<div align='center'> <video src='https://drive.google.com/uc?id=1NktnKwCp42IMLGfyTjcma3hJ-SQ9FcrD' width='70%' poster=''> </div>
+<div align='center'> <video src='https://drive.google.com/uc?id=1NktnKwCp42IMLGfyTjcma3hJ-SQ9FcrD' width='70%' poster=''> </video> </div>
 
 ## 📟 Description
 
