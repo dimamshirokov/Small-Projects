@@ -1,7 +1,7 @@
 # Pixel Art Studio
 
 <div align='center'>
-    <video src='https://www.youtube.com/watch?v=KXyci1jlfjs' width='70%' poster=''> </video>
+    ![](https://drive.google.com/uc?id=1SH3W8EqwygeS9FQN_Zfn__UKneOFbnz1)
 </div>
 
 ## 📟 Description
