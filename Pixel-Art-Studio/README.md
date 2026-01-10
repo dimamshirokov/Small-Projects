@@ -1,7 +1,9 @@
 # Pixel Art Studio
 
 <div align='center'> 
-    <video src='https://drive.google.com/file/d/1NktnKwCp42IMLGfyTjcma3hJ-SQ9FcrD/view?usp=sharing' width='70%' poster=''> </video> 
+    <a href='https://drive.google.com/file/d/1NktnKwCp42IMLGfyTjcma3hJ-SQ9FcrD/view' target='_blank'>
+        <img src='https://via.placeholder.com/800x450/4285F4/FFFFFF' width='70%'>
+    </a> 
 </div>
 
 ## 📟 Description
