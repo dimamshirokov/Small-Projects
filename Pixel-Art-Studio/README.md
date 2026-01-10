@@ -1,7 +1,7 @@
 # Pixel Art Studio
 
 <div align='center'>
-    ![](https://drive.google.com/uc?id=1SH3W8EqwygeS9FQN_Zfn__UKneOFbnz1)
+    ![](https://drive.google.com/file/d/1SH3W8EqwygeS9FQN_Zfn__UKneOFbnz1/view?usp=sharing)
 </div>
 
 ## 📟 Description
