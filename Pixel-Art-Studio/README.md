@@ -1,9 +1,5 @@
 # Pixel Art Studio
 
-<div align='center'>
-    ![](https://drive.google.com/file/d/1SH3W8EqwygeS9FQN_Zfn__UKneOFbnz1/view?usp=sharing)
-</div>
-
 ## 📟 Description
 
 This is a Python + tkinter project that allows you to create 32x32 block pixel art and save them to an PNG file.
