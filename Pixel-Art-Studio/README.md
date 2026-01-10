@@ -1,7 +1,9 @@
 # Pixel Art Studio
 
 <div align='center'>
-    [![](https://imgur.com/gallery/github-project-XQEdy9z#l7igicW.jpg)](https://www.youtube.com/watch?v=KXyci1jlfjs)
+    <a href='https://www.youtube.com/watch?v=KXyci1jlfjs' target='_blank'>
+        <img src='https://imgur.com/gallery/github-project-XQEdy9z#l7igicW.jpg' width='70%'>
+    </a>
 </div>
 
 ## 📟 Description
