@@ -1,7 +1,7 @@
 # Pixel Art Studio
 
 <div align='center'>
-    ![Video](https://drive.google.com/file/d/1NktnKwCp42IMLGfyTjcma3hJ-SQ9FcrD/view?usp=sharing)
+    [![](https://imgur.com/gallery/github-project-XQEdy9z#l7igicW.jpg)](https://www.youtube.com/watch?v=KXyci1jlfjs)
 </div>
 
 ## 📟 Description
