@@ -1,9 +1,7 @@
 # Pixel Art Studio
 
 <div align='center'>
-    <a href='https://www.youtube.com/watch?v=KXyci1jlfjs' target='_blank'>
-        <img src='https://imgur.com/gallery/github-project-XQEdy9z#l7igicW.jpg' width='70%'>
-    </a>
+    <video src='https://www.youtube.com/watch?v=KXyci1jlfjs' width='70%' poster=''> </video>
 </div>
 
 ## 📟 Description
