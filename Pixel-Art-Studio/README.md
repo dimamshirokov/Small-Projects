@@ -1,7 +1,7 @@
 # Pixel Art Studio
 
 <div align='center'>
-    <img src='assets/Pixel-Art-Studio.gif' width='70%' poster=''>
+    <img src='assets/Pixel-Art-Studio.gif' width='70%'>
 </div>
 
 ## 📟 Description
