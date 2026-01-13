@@ -1,5 +1,9 @@
 # Pixel Art Studio
 
+<div align='center'>
+    <video src='assets/Pixel-Art-Studio.mp4' width='70%' poster=''> </video>
+</div>
+
 ## 📟 Description
 
 This is a Python + tkinter project that allows you to create 32x32 block pixel art and save them to an PNG file.
@@ -23,11 +27,14 @@ Opportunities:
   
 ## 🏎️ Run the program
 
-While in the folder /Small-Projects/Pixel-Art-Studio, run the commands below.
+While in the folder /Small-Projects/Pixel-Art-Studio, run the command below.
 
 ```console
 pip install -r requirements.txt
 ```
+
+Meanwhile, in the folder /Small-Projects/Pixel-Art-Studio/src, run the command below.
+
 ```console
 python3 main.py
 ```
