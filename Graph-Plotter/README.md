@@ -1,7 +1,7 @@
 # Graph Plotter
 
 <div align='center'>
-    <img src='https://drive.google.com/uc?id=106DhkDL9GV38hXVkG9BtYdf6FQDnYKXF' width='70%'>
+    <img src='https://drive.google.com/uc?id=1Xj7545oU7rPrfZxhh2zJjzSKibTJr_OM' width='70%'>
 </div>
 
 ## 📋 Description
@@ -29,21 +29,17 @@ Meanwhile, in the folder /Small-Projects/Graph-Plotter/src, run the command belo
 python3 main.py
 ```
 
-## 🤳 Install the app
-
-If you want to use my application, you can download it on macOS by simply clicking on the badge below and then unpacking the zip archive.
-
-[![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://drive.google.com/uc?id=1QpbXJBmq7-jdO0Kj1qHMqKHGs_dEVlhH)
-
 ## 📉 Portfolio
 
 Examples of graphs of functions constructed using the Graph-Plotter application.
 
-![](https://drive.google.com/uc?id=15_b2fY3-IcFvR0RiD-MqyoIgtcXouEuT)
+![](https://drive.google.com/uc?id=1pqPRM1YA9o6hGQtxx_Akn6ArhIAa-kuB)
 
-![](https://drive.google.com/uc?id=1vv3nztyEvFLTmMkPx1eIXgAWtOZXkYDr)
+![](https://drive.google.com/uc?id=1Qs26z9qMM99N3lDQY1GWnZzmmrygV3Jw)
 
-![](https://drive.google.com/uc?id=1TLdPZod90iuP_utQSVhvvMZBEHs872Wi)
+![](https://drive.google.com/uc?id=1ApvAXgIKO5NN8r8d1P_9kNdJRaP-bkL6)
+
+![](https://drive.google.com/uc?id=1ODOwvYjbYy0YnsQFIZQ72QXFj3cZ_tBV)
 
 ## :octocat: Author
 

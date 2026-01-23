@@ -44,24 +44,22 @@ def build_function() -> None:
             left_border_number = eval(left_border)
             right_border_number = eval(right_border)
 
-            x = np.linspace(left_border_number, right_border_number, np.abs(right_border_number - left_border_number) * 50)
+            x = np.linspace(left_border_number, right_border_number, ceil(np.abs(right_border_number - left_border_number) * 50))
             y = list(map(function, x))
 
             figure = plt.figure(figsize = (5, 5))
 
-            plt.plot(x, y, color = '#023EFF')
+            axes = figure.add_axes([0, 0, 1, 1])
+            axes.plot(x, y, color = '#023EFF')
 
-            ax = plt.gca()
-            ax.spines['left'].set_position('center')
-            ax.spines['bottom'].set_position('center')
-            ax.spines['top'].set_visible(False)
-            ax.spines['right'].set_visible(False)
+            axes.spines['left'].set_position('center')
+            axes.spines['bottom'].set_position('center')
+            axes.spines['top'].set_visible(False)
+            axes.spines['right'].set_visible(False)
 
-            plt.grid()
+            axes.grid(alpha = 0.3)
+            plt.legend([f'$f(x) = {enter_function_widget.get()}$'], facecolor = '#E6E6FA', edgecolor = '#000000')
 
-            plt.title(label = f'$f(x) = {enter_function_widget.get()}$')
-            plt.xlabel(xlabel = '$x$', loc = 'right')
-            
             canvas = FigureCanvasTkAgg(figure, master = third_frame)
             canvas.draw()
             canvas.get_tk_widget().pack(fill = tk.BOTH, padx = PADX, pady = PADY, expand = True)
