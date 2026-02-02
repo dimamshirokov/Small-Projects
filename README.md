@@ -1,8 +1,8 @@
-# Small Projects
+<h1 align='center'> Small Projects </h1>
 
-<div align='center'>
-    <img src='https://drive.google.com/uc?id=1kskmhDSUZqpaRK22jQcZF9S90_xLKxfl' width='70%'>
-</div>
+<p align='center'> <img src='https://drive.google.com/uc?id=1kskmhDSUZqpaRK22jQcZF9S90_xLKxfl' width='70%'> </p>
+
+___
 
 ## 🔬 Description
 

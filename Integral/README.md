@@ -1,4 +1,6 @@
-# Integral
+<h1 align='center'> Integral </h1>
+
+___
 
 ## :pencil: Description
 

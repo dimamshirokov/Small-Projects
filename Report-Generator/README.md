@@ -1,4 +1,6 @@
-# Report Generator
+<h1 align='center'> Report Generator </h1>
+
+___
 
 ## :newspaper: Description
 

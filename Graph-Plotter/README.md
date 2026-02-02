@@ -1,8 +1,8 @@
-# Graph Plotter
+<h1 align='center'> Graph Plotter </h1>
 
-<div align='center'>
-    <img src='https://drive.google.com/uc?id=1Xj7545oU7rPrfZxhh2zJjzSKibTJr_OM' width='70%'>
-</div>
+<p align='center'> <img src='https://drive.google.com/uc?id=1Xj7545oU7rPrfZxhh2zJjzSKibTJr_OM' width='70%'> </p>
+
+___
 
 ## 📋 Description
 

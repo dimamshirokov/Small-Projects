@@ -1,4 +1,6 @@
-# Password Generator
+<h1 align='center'> Password Generator </h1>
+
+___
 
 ## :paperclip: Description
 

@@ -1,4 +1,6 @@
-# Mandelbrot Set
+<h1 align='center'> Mandelbrot Set </h1>
+
+___
 
 ## :speech_balloon: Description
 

@@ -1,8 +1,8 @@
-# Pixel Art Studio
+<h1 align='center'> Pixel Art Studio </h1>
 
-<div align='center'>
-    <img src='assets/Pixel-Art-Studio.gif' width='70%'>
-</div>
+<p align='center'> <img src='assets/Pixel-Art-Studio.gif' width='70%'> </p>
+
+___
 
 ## 📟 Description
 
