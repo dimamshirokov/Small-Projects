@@ -12,6 +12,7 @@ You can download each one and run it.
 ## 👾 Projects
 
 - [**Python**: _An application for plotting functions_](https://github.com/dimamshirokov/Small-Projects/tree/main/Graph-Plotter)
+- [**C++**: _Parsing of INI-files_](https://github.com/dimamshirokov/Small-Projects/tree/main/INI-Parser)
 - [**C**: _Calculating the integral of a function_](https://github.com/dimamshirokov/Small-Projects/tree/main/Integral)
 - [**Python**: _Kaggle Data Science Projects_](https://github.com/dimamshirokov/Small-Projects/tree/main/Kaggle)
 - [**C**: _Visualization of the Mandelbrot set_](https://github.com/dimamshirokov/Small-Projects/tree/main/Mandelbrot)
