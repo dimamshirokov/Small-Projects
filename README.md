@@ -13,11 +13,13 @@ You can download each one and run it.
 
 - [**Python**: _An application for plotting functions_](https://github.com/dimamshirokov/Small-Projects/tree/main/Graph-Plotter)
 - [**C**: _Calculating the integral of a function_](https://github.com/dimamshirokov/Small-Projects/tree/main/Integral)
+- [**Python**: _Kaggle Data Science Projects_](https://github.com/dimamshirokov/Small-Projects/tree/main/Kaggle)
 - [**C**: _Visualization of the Mandelbrot set_](https://github.com/dimamshirokov/Small-Projects/tree/main/Mandelbrot)
 - [**C**: _Random Password Generator_](https://github.com/dimamshirokov/Small-Projects/tree/main/Password-Generator)
 - [**Python**: _An application for creating pixel art_](https://github.com/dimamshirokov/Small-Projects/tree/main/Pixel-Art-Studio)
 - [**Python**: _Adding tables and graphs to PDF from CSV or JSON file_](https://github.com/dimamshirokov/Small-Projects/tree/main/Report-Generator)
 - [**Python**: _A simple snake game_](https://github.com/dimamshirokov/Small-Projects/tree/main/Snake)
+- [**Python**: _Recognition of handwritten text and numbers_](https://github.com/dimamshirokov/Small-Projects/tree/main/Text-Recognizer)
 
 ## 👴🏻 Author
 
