@@ -21,6 +21,7 @@ You can download each one and run it.
 - [**Python**: _Adding tables and graphs to PDF from CSV or JSON file_](https://github.com/dimamshirokov/Small-Projects/tree/main/Report-Generator)
 - [**Python**: _A simple snake game_](https://github.com/dimamshirokov/Small-Projects/tree/main/Snake)
 - [**Python**: _Recognition of handwritten text and numbers_](https://github.com/dimamshirokov/Small-Projects/tree/main/Text-Recognizer)
+- [**C++**: _Making a thread-safe queue_](https://github.com/dimamshirokov/Small-Projects/tree/main/Threaded-Queue)
 
 ## 👴🏻 Author
 
