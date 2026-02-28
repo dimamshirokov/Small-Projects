@@ -11,6 +11,7 @@ This is the section where I do data analysis and ML on Kaggle. You can find many
 ## 🌎 Projects
 
 - [_I analyze whether a person will have heart disease or not_](https://github.com/dimamshirokov/Small-Projects/tree/main/Kaggle/Indicators-Of-Heart-Disease)
+- [_Defining the penguin species_](https://github.com/dimamshirokov/Small-Projects/tree/main/Kaggle/Penguins-Classification)
 - [_Predicting student performance_](https://github.com/dimamshirokov/Small-Projects/tree/main/Kaggle/Student-Performance)
 
 ## 🗿 Author
