@@ -1,6 +1,6 @@
 <h1 align='center'> Mushroom Classification </h1>
 
-<p align='text'> <img src='https://drive.google.com/uc?id=1m48he25z7U3lZ8pgeoUoXC8cNNjTEEVN' width='70%'> </p>
+<p align='center'> <img src='https://drive.google.com/uc?id=1m48he25z7U3lZ8pgeoUoXC8cNNjTEEVN' width='70%'> </p>
 
 ___
 
