@@ -16,6 +16,7 @@ This is the section where I do data analysis and ML on Kaggle. You can find many
 - [_Defining the penguin species_](https://github.com/dimamshirokov/Small-Projects/tree/main/Kaggle/Penguins-Classification)
 - [_Predicting whether the client will leave or not_](https://github.com/dimamshirokov/Small-Projects/tree/main/Kaggle/Predict-Customer-Churn)
 - [_Predicting student performance_](https://github.com/dimamshirokov/Small-Projects/tree/main/Kaggle/Student-Performance)
+- [_Clustering the data and visualizing it_](https://github.com/dimamshirokov/Small-Projects/tree/main/Kaggle/The-Coolest-Clustering)
 
 ## 🗿 Author
 
